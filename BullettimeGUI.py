@@ -302,8 +302,6 @@ class PageThree(tk.Frame):
                     else:
                         message = 'sync at {}@{}    expo    {}    {}    {}    {}    {}    {}    {}'.format(later_iso,ip.strip('\n')
                         ,qly.get(),iso.get(),et.get(),wi.get(),he.get(),rd.get(),be.get())
-                        #message = 'sync at {}@{}    expo    {}    {}    {}    {}    {}    {}    {}'.format(later_iso,ip.strip('\n')
-                        #,qly.get(),iso.get(),et.get(),rd.get(),be.get(),wi.get(),he.get())
                     b = message.encode()
                     logger.info(later_iso)
                     logger.info(message)
