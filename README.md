@@ -8,4 +8,4 @@ How the matrix popularise such use of the visual effect on the masses.
 Now Bulletime can bee recreated by many regardless in proficency on the subject of photography and cinematography.
 With projects & products already in the market , what set this project apart from the rest?
 
-As per creation of this repository ,  this would possibly be the 1st project to attempt using the HQ camera with Raspberry Pi(s) and mimic bullettime in a raspbiean enviroment. Further revision of the project after i will not be involved hence this would be include the work that i did.
+As per creation of this repository ,  this would possibly be the 1st project to attempt using the HQ camera with Raspberry Pi(s) and mimic bullettime in a raspbiean enviroment. Further revision of the project after will not be involved by me hence this would only include the work that was done by me for the project duration given.
